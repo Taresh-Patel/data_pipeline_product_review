@@ -1,0 +1,4 @@
+mongomock
+pandas
+requests
+pytest
